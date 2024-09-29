@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Shiva",
+    "age": 17,
+    "city": "Chamarajanagar"
+  },
+  {
+    "id": 2,
+    "name": "Safana Begum",
+    "age": 16,
+    "city": "Sendarapatti"
+  },
+  {
+    "id": 3,
+    "name": "vihaana",
+    "age": 0,
+    "city": "Chamarajanagar"
+  },
+  {
+    "id": 4,
+    "name": "Vihaan",
+    "age": 0,
+    "city": "Chamarajanagar"
+  },
+  {
+    "id": 5,
+    "name": "Vivaan",
+    "age": 0,
+    "city": "Chamarajanagar"
+  },
+  {
+    "id": 1724255460602,
+    "name": "Shiva",
+    "age": "17",
+    "city": "Chamarajanagar"
+  }
+]
